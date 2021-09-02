@@ -1,3 +1,9 @@
+# E-commerce application
+
+## Technologies
+
+React, Redux, Hooks, Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
